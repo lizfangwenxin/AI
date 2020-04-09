@@ -1,2 +1,2 @@
 # hello-world
-get-started
+hi humans!
